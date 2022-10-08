@@ -1,0 +1,5 @@
+com/random/inventory_service/InventoryServiceApplication.class
+com/random/inventory_service/repository/InventoryRepository.class
+com/random/inventory_service/model/Inventory.class
+com/random/inventory_service/controller/InventoryController.class
+com/random/inventory_service/service/InventoryService.class

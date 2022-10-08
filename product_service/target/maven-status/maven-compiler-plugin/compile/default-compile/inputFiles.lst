@@ -1,0 +1,7 @@
+/Users/leonbender/Desktop/dev/Tutorials/microservice_springboot/product_service/src/main/java/com/random/product_service/dto/ProductRequest.java
+/Users/leonbender/Desktop/dev/Tutorials/microservice_springboot/product_service/src/main/java/com/random/product_service/repository/ProductRepository.java
+/Users/leonbender/Desktop/dev/Tutorials/microservice_springboot/product_service/src/main/java/com/random/product_service/model/Product.java
+/Users/leonbender/Desktop/dev/Tutorials/microservice_springboot/product_service/src/main/java/com/random/product_service/controller/ProductController.java
+/Users/leonbender/Desktop/dev/Tutorials/microservice_springboot/product_service/src/main/java/com/random/product_service/ProductServiceApplication.java
+/Users/leonbender/Desktop/dev/Tutorials/microservice_springboot/product_service/src/main/java/com/random/product_service/service/ProductService.java
+/Users/leonbender/Desktop/dev/Tutorials/microservice_springboot/product_service/src/main/java/com/random/product_service/dto/ProductResponse.java

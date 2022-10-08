@@ -1,0 +1,10 @@
+com/random/product_service/dto/ProductResponse$ProductResponseBuilder.class
+com/random/product_service/model/Product$ProductBuilder.class
+com/random/product_service/dto/ProductResponse.class
+com/random/product_service/dto/ProductRequest.class
+com/random/product_service/ProductServiceApplication.class
+com/random/product_service/repository/ProductRepository.class
+com/random/product_service/model/Product.class
+com/random/product_service/dto/ProductRequest$ProductRequestBuilder.class
+com/random/product_service/controller/ProductController.class
+com/random/product_service/service/ProductService.class

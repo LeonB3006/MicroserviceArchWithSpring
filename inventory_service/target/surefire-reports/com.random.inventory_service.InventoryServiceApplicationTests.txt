@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.random.inventory_service.InventoryServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.311 s - in com.random.inventory_service.InventoryServiceApplicationTests
